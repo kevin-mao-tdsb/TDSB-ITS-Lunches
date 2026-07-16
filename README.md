@@ -1,7 +1,7 @@
 # TDSB ITS Lunch Spots
 Thanks for checking this page out! This is managed by Kevin Mao. I just wanted an easy way to choose lunch at the office, because it can get difficult when there are many people who are potentially interested in coming!
 
-The site is hosted at <b>https://kevin-mao-tdsb.github.io/</b>.
+The site is hosted at <b>https://tdsb-its-lunches.github.io/</b>.
 
 The site is fairly simple, but I split the three regions into three areas:
 - Spots within a 10-15 minute drive of either 1 Civic or BCI are included in the <b>Etobicoke</b> region.
